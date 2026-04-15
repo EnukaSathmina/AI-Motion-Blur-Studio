@@ -33,7 +33,7 @@ Supports large video files (local setup) and exports final video with audio usin
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-motion-blur-studio.git
+git clone https://github.com/EnukaSathmina/AI-Motion-Blur-Studio.git
 cd ai-motion-blur-studio
 ```
 ### 2️⃣ Create virtual environment (recommended)
